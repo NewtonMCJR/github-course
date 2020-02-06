@@ -1,0 +1,3 @@
+# GitCurse
+
+Arquivo de estudo!
